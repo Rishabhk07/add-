@@ -55,13 +55,4 @@
         android:id="@+id/result"
         android:textSize="30dp"/>
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@mipmap/ic_launcher"
-        android:layout_alignParentTop="true"
-        android:layout_toLeftOf="@+id/etNum1"
-        android:layout_toStartOf="@+id/etNum1"
-        android:layout_marginTop="15dp"
-        android:id="@+id/imageView" />
 </RelativeLayout>
